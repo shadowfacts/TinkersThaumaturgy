@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tinkersthaumaturgy",
+  "name": "Tinkers' Thaumaturgy",
+  "description": "Use Thaumcraft resources for Tinkers' Construct tools.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/shadowfacts/TinkersThaumaturgy",
+  "updateUrl": "",
+  "authorList": ["Shadowfacts"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
